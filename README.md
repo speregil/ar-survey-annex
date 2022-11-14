@@ -75,3 +75,47 @@
 <h2>Negative Outcomes Code Book</h2>
 <p><em>1.0 None reported:</em> No negative outcome was reported.</p>
 <h3>Technology issues</h3>
+<p><em>2.1 General technology issues:</em> Reported failures, problems or inconveniences related to technology usage or setup, mainly of the platform or the AR tool itself.</p>
+<p><em>2.2 Occlusion:</em> Problems related to the AR image recognition being occluded by other objects or the users themselves.</p>
+<p><em>2.3 Illumination:</em> Problems related to the AR being affected by poor or excessive illumination.</p>
+<p><em>2.4 Frame rate and computational power:</em> Problems related to the selected platform struggling to process or run the tool, creating frame rate issues or slowing down the experience.</p>
+<p><em>2.5 Impractical markers or image recognition problems:</em> Problems related with the selected markers for image recognition, inconvenient usage, constants tracking lost or similar relate issues.</p>
+<p><em>2.6 Connectivity problems:</em> The tool required local or internet connection, the connection was unstable, lost or the necessity for a connection was an inconvenience for the usage of the tool.</p>
+<p><em>2.7 Budget/cost issues:</em> The cost for creating or using the tool were to high or impossible to scale up.</p>
+<p><em>2.8 Accuracy problems for geolocalization:</em> AR is based on geolocalization and it lacked precision or was to erratic.</p>
+<h3>Pedagogical design issues</h3>
+<p><em>3.1 General pedagogical design issues:</em> Issues related to the pedagogical design, the educational goals, the content presented or the activities created around the usage of the AR tool.</p>
+<p><em>3.2 AR is not integrated well with other activities:</em> The use of the AR tool is part of a bigger design and is considered a distraction or harmful to the other elements of the activity.</p> 
+<p><em>3.3 AR is not correctly used as learning tool:</em> The use of AR in the proposed project is minimal or is not related to learning.</p>
+<p><em>3.4 Pacing and time consumption:</em> Set up or usage of the AR tool consumes too much time and harms other activities in the pedagogical design.</p>
+<p><em>3.5 Poor scalability of the activity:</em> It is hard or non-viable to use the proposed tool with more users or in a more realistic scenario.</p>
+<h3>Cognitive issues</h3>
+<p><em>4.1 Easy to lose attention / AR takes attention from learning:</em> The AR elements of the tool are distracting and take the attention from other learning activities or the learning core of the tool.</p>
+<p><em>4.2 Increased Cognitive load for students:</em> Researchers reported an increased in the cognitive load of the students, either as perceived by the students themselves or tested using any other kind of tool.</p>
+<h3>Scope Issues</h3>
+<p><em>5.1 Scope of design to big for technology limitations:</em> The technology used did not suited correctly the intentions or ideas of the pedagogical design, either in the proposed usage or the type and/or number of users desired.</p>
+<h3>Isolation</h3>
+<p><em>6.1 AR promotes isolation:</em> The use of AR prompts the students to isolate themselves and not pay attention to their peers or the context in which the pedagogical activity is happening.</p>
+<h3>Performance issues</h3>
+<p><em>7.1 Lower or no significantly different academical results:</em> Tests done by the researches showed no academical performance increase or it was not statistically significant.</p>
+<p><em>7.2 Results are not consistent between different types of users:</em> Results shows there is a significant difference in results between different types of users, either due to gender, age, academical level or any other variable.</p>
+<h3>Motivation issues</h3>
+<p><em>8.1 No interest or motivation in the tool:</em> Users reported or observed to have no interest in using the tool.</p>
+<p><em>8.2 Novelty of the tool ended quickly:</em> Users reported or observed to have an initial interest in the tool but lost it quickly, before the activity ended or in subsequent sessions.</p>
+<p><em>8.3 Other tools are more reliable/interesting:</em> Users found other tools more interesting or useful than the proposed tool.</p>
+<h3>Undesired effects</h3>
+<p><em>9.1 The tool had an undesired effect in other skills:</em> The use of the tool had an undesired negative effect in the development or acquisition of other skills.</p>
+<h3>Content issues</h3>
+<p><em>10.1 Insufficient or lacklustre content:</em> Content created for the tool was reported as low quality by students or they would wish for more or different content.</p>
+<p><em>10.2 Hard to create content for the tool:</em> Researchers reported difficulties in budget, time or resources to create or procure suitable content for the tool.</p>
+<h3>Usability issues</h3>
+<p><em>11.1 Hard to use or requires too much training:</em> The tool is reported by users to be hard to learn and/or use, or using the tool requires to much preparation and proper training.</p>
+<p><em>11.2 Physical exhaustion:</em> Using the tool causes exhausting even in short periods of usage.</p>
+<p><em>11.3 Limited access to technology:</em> The platform chosen for deploying the AR tool is hard or expensive to come by.</p> 
+<p><em>11.4 Difficulties with multiple users or different types of users:</p> The tool was not well suited or received by a percentage of the user population.</p>
+<h3>Research design issues</h3>
+<p><em>12.1 Research design has problems:</em> Some elements of the research designs are weird or harm the overall exposition of the tool in some way.</p>
+<p><em>12.2 The AR tool used is not clear:</em> It is not clear in what AR technology is being used, what exactly the AR tool does or how it is being used in the pedagogical design.</p>
+<p><em>12.3 Data presented by the study was difficult to interpret:</em> The research presented data in a format hard to interpret or that obscured aspects of the research.</p>
+<p><em>12.4 Data presented contradicts results or presents some kind of problem:</em> The data presented contradicts statements given in the discussions or conclusions sections.</p>
+<p><em>12.5 Specific goals of the research were not met:</em> The main hypothesis of the research was proven false or the educational goals stated for the tool were not met.</p>
